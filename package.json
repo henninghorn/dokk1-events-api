@@ -1,0 +1,13 @@
+{
+  "name": "dokk1-events",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {},
+  "author": "Henning Horn",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "express": "^4.15.2",
+    "request": "^2.81.0"
+  }
+}
